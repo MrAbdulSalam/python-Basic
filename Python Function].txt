@@ -1,0 +1,50 @@
+#1st Function
+def first_function():
+    x="1st Function"
+    print(x)
+first_function()
+#2nd Function
+def second_function():
+    x="2nd Function"
+    print(x)
+second_function()
+#3rd Function
+def third_function():
+    x="3rd Function"
+    print(x)
+third_function()
+    #4th Function
+def four_function():
+    x="4th Function"
+    print(x)
+four_function()
+    #5th Function
+def five_function():
+    x="5th Function"
+    print(x)
+five_function()
+    #6th Function
+def six_function():
+    x="6th Function"
+    print(x)
+six_function()
+    #7th Function
+def seven_function():
+    x="7th Function"
+    print(x)
+seven_function()
+    #8th Function
+def eight_function():
+    x="8th Function"
+    print(x)
+eight_function()
+    #9th Function
+def nine_function():
+    x="9th Function"
+    print(x)
+nine_function()
+    #10th Function
+def ten_function():
+    x="10th Function"
+    print(x)
+ten_function()
